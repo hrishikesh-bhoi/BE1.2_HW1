@@ -16,7 +16,7 @@ function seedData() {
                 username: profileData.username,
                 bio: profileData.bio,
                 profilePicUrl: profileData.profilePicUrl,
-                followingCount: profileData.followerCount,
+                followingCount: profileData.followingCount,
                 followerCount: profileData.followerCount,
                 companyName: profileData.companyName,
                 location: profileData.location,
